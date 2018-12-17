@@ -95,8 +95,10 @@ html,body{
     padding-top:50px;
     transition: 1s;
 }
+
 .lt-subject.hidemenu {
     padding-left: 0;
+    
 }
 /* 主体头部样式 */
 .lt-subject .lt-topbar {
@@ -130,4 +132,11 @@ html,body{
 
 .modal-body p {
     color: #A94442;
+}
+
+/* 表格样式 */
+.table.table-bordered th,
+.table.table-bordered td{
+    text-align: center;
+    vertical-align: middle;
 }
