@@ -1,0 +1,12 @@
+.lt-container .mb-20{
+    margin-bottom: 20px;
+}
+
+
+.lt-container thead tr th:first-of-type{
+    width: 20%;
+}
+
+.lt-container thead tr th:last-of-type{
+    width: 80%;
+}
